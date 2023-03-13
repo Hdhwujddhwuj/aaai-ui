@@ -20,8 +20,8 @@ jobs:
 
       with:
 
-        username: 'aqualxx'
+        username: 'Hdhwujddhwuj'
 
-        reponame: 'stable-ui'
+        reponame: 'aaai-ui'
 
         token: ${{ secrets.GITHUB_TOKEN }}
